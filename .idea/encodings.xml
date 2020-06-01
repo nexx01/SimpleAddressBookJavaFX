@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/javafx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/bundles/Locale_en.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/bundles/Locale_ru.properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/controllers/EditDialogController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/controllers/MainController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/fxml/edit.fxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/fxml/main.fxml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/interfaces/AddressBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/interfaces/impls/CollectionAddressBook.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/objects/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/javafx/start/Main.java" charset="UTF-8" />
+  </component>
+</project>
