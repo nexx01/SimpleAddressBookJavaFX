@@ -1,3 +1,4 @@
+
 package ru.javabegin.training.fastjava2.javafx.start;
 
 import javafx.application.Application;
@@ -12,7 +13,7 @@ import java.util.ResourceBundle;
 
 public class Main extends Application {
 
-    private static final Locale DEFAULT_LOCALE = new Locale("en");
+    private static final Locale DEFAULT_LOCALE = new Locale("ru");
 
     @Override
     public void start(Stage primaryStage) throws Exception{
